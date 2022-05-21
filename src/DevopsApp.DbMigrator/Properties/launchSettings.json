@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DevopsApp.DbMigrator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging"
+      }
+    }
+  }
+}
